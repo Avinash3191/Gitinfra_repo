@@ -29,3 +29,5 @@ resource "azurerm_storage_account" "example" {
   tags = {
     environment = "staging"
   }
+  xyz
+  abc
